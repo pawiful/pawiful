@@ -1,15 +1,15 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Nico+%F0%9F%91%8B;Developer+%7C+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+nes+%F0%9F%91%8B;Developer+%7C+Scripter+%7C+Creator;Turning+Ideas+into+Reality;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
+
 
 ---
 
-## 👋 About Me
-- 🚀 Passionate about building cool projects & solving problems.
-- 💡 Love learning about **automation**, **web dev**, and **game scripting**.
-- 🎯 Goal: Keep improving and creating things people enjoy using.
-- 🌍 Based in: **[Your Location]**
+## about me
+- 4+ years of creating game cheats.
+- a passionate cheat developer
+- based in the **us**
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" height="165" />
