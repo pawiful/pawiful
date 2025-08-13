@@ -29,7 +29,7 @@
 
 ---
 
-## join r7!
+## contact me!
 [![Discord](https://img.shields.io/badge/Discord-%40qjuv-blue?logo=discord&logoColor=white)](https://discord.gg/3AJJwwjeU9)
 
 ---
