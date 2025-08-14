@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+nes+%F0%9F%91%8B;Developer+%7C+Scripter+%7C+Creator;Turning+Ideas+into+Reality;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=goat;cheat dev" alt="Typing SVG" />
 </p>
 
 
